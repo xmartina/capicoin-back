@@ -71,7 +71,7 @@
                     <input type=hidden name=follow_id value=''>
                     <div class="form-group">
                         {if $frm.say eq 'invalid_login'}
-                            <h3 style="text-align: center;">Login error:</h3><br><br>
+                            <h3 style="text-align: center; color: #243b6a; font-size: 14px; font-weight: 600"">Login error:</h3><br><br>
 
                             <h5 style="text-align: center; color: #6f0707; font-size: 12px; font-weight: 600">Your login or password or turing image code is wrong. Please check this information.</h5>
                         {/if}
