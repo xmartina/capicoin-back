@@ -1,5 +1,7 @@
 {$SiteName = "Capital Coin Investment"}
 {$PageTage = "Secured Investment Platform"}
+{$siteLogo = "/assets/images/logo/logo.png"}
+{$siteIcon = "/assets/images/logo/favicon.png"}
 
 <!DOCTYPE html>
 <html lang="zxx" class="js">
@@ -35,7 +37,7 @@
                     <div class="nk-block-head-content">
                         <h5 class="nk-block-title">Sign-In</h5>
                         <div class="nk-block-des">
-                            <p>Access the DashLite panel using your email and passcode.</p>
+                            <p>Access your {$SiteName} panel using your email and passcode.</p>
                         </div>
                     </div>
                 </div><!-- .nk-block-head -->
