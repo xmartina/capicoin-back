@@ -337,7 +337,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="form-group text-right">
+                    <div class="form-group text-right mt-3">
                         <div class="custom-control custom-control-xs custom-checkbox text-right">
                             <input type="checkbox" name=agree value=1 class="custom-control-input" id="checkbox">
                             <label class="custom-control-label text-right" for="checkbox">I agree to {$SiteName} <a tabindex="-1" href="?a=rules">Privacy Policy</a> &amp; <a tabindex="-1" href="?a=rules"> Terms.</a></label>
