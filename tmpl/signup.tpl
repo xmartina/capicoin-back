@@ -363,4 +363,5 @@
                 <div class="form-note-s2 pt-4"> Already have an account ? <a href="?a=login"><strong>Sign in instead</strong></a>
                 </div>
             </div><!-- .nk-block -->
+            {/if}
             {include file="auth_footer.tpl"}
