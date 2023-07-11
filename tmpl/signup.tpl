@@ -300,7 +300,7 @@
                             <div class="form-group">
                                 <label class="form-label" for="Secret_Question" >Secret Question</label>
                                 <div class="form-control-wrap">
-                                    <input name=sq value="{$frm.sq|escape:" quotes"}" type="email" class="form-control form-control-lg" id="email" placeholder="Enter Secret Question">
+                                    <input name=sq value="{$frm.sq|escape:" quotes"}" type="text" class="form-control form-control-lg" id="email" placeholder="Enter Secret Question">
                                 </div>
                             </div>
                         </div>
@@ -308,7 +308,7 @@
                             <div class="form-group">
                                 <label class="form-label" for="Secret_Answer" >Secret Answer</label>
                                 <div class="form-control-wrap">
-                                    <input name=sa value="{$frm.sa|escape:" quotes"}" type="email" class="form-control form-control-lg" id="email" placeholder="Enter Secret_Answer">
+                                    <input name=sa value="{$frm.sa|escape:" quotes"}" type="text" class="form-control form-control-lg" id="email" placeholder="Enter Secret_Answer">
                                 </div>
                             </div>
                         </div>
@@ -336,16 +336,10 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-4">
-                            <div class="form-group">
-                                <div class="custom-control custom-control-xs custom-checkbox">
-                                    <input type="checkbox" name=agree value=1 class="custom-control-input" id="checkbox">
-                                 </div>
-                            </div>
-                        </div>
                     </div>
                     <div class="form-group text-right">
                         <div class="custom-control custom-control-xs custom-checkbox text-right">
+                            <input type="checkbox" name=agree value=1 class="custom-control-input" id="checkbox">
                             <label class="custom-control-label text-right" for="checkbox">I agree to {$SiteName} <a tabindex="-1" href="?a=rules">Privacy Policy</a> &amp; <a tabindex="-1" href="?a=rules"> Terms.</a></label>
                         </div>
                     </div>
