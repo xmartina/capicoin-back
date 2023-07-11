@@ -249,14 +249,45 @@
                         </div>
                     </div>
                 </div><!-- .nk-block-head -->
-                <form action="#">
+
+                {literal}
+                    <script language=javascript>
+                        function checkform() {
+                            if (document.mainform.username.value == '') {
+                                alert("Please type your username!");
+                                document.mainform.username.focus();
+                                return false;
+                            }
+                            if (document.mainform.password.value == '') {
+                                alert("Please type your password!");
+                                document.mainform.password.focus();
+                                return false;
+                            }
+                            return true;
+                        }
+
+                    </script>
+                {/literal}
+
+                <form method=post name=mainform onsubmit="return checkform()">
+                    <input type=hidden name=a value='do_login'>
+                    <input type=hidden name=follow value='{$frm.follow}'>
+                    <input type=hidden name=follow_id value='{$frm.follow_id}'>
+                    <input type=hidden name=a value='do_login'>
+                    <input type=hidden name=follow value=''>
+                    <input type=hidden name=follow_id value=''>
                     <div class="form-group">
+                        {if $frm.say eq 'invalid_login'}
+                            <h3 style="text-align: center;">Login error:</h3><br><br>
+
+                            <h5 style="text-align: center;">Your login or password or turing image code is wrong. Please check this information.</h5>
+                        {/if}
                         <div class="form-label-group">
-                            <label class="form-label" for="default-01">Email or Username</label>
+                            <label class="form-label"  for="default-01">Username</label>
                             <a class="link link-primary link-sm" tabindex="-1" href="#">Need Help?</a>
                         </div>
                         <div class="form-control-wrap">
-                            <input type="text" class="form-control form-control-lg" id="default-01" placeholder="Enter your email address or username">
+                            <input type="text" name=username value='' class="form-control form-control-lg" id="default-01" placeholder="Enter username">
                         </div>
                     </div><!-- .form-group -->
                     <div class="form-group">
