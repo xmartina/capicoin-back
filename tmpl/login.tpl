@@ -70,7 +70,7 @@
                         {if $frm.say eq 'invalid_login'}
                             <h3 style="text-align: center;">Login error:</h3><br><br>
 
-                            <h5 style="text-align: center;">Your login or password or turing image code is wrong. Please check this information.</h5>
+                            <h5 style="text-align: center; color: #6f0707; font-size: 12px; font-weight: 600">Your login or password or turing image code is wrong. Please check this information.</h5>
                         {/if}
                         <div class="form-label-group">
                             <label class="form-label"  for="default-01">Username</label>
