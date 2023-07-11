@@ -266,12 +266,6 @@
                     {/if}
 
                     <div class="form-group">
-                        <label class="form-label" for="name">Name</label>
-                        <div class="form-control-wrap">
-                            <input type="text" class="form-control form-control-lg" id="name" placeholder="Enter your name">
-                        </div>
-                    </div>
-                    <div class="form-group">
                         <label class="form-label" for="Full Name" >Full Name</label>
                         <div class="form-control-wrap">
                             <input name=fullname value="{$frm.fullname|escape:" quotes"}" type="text" class="form-control form-control-lg" id="email" placeholder="Enter Full Name">
