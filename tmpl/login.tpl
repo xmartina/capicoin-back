@@ -1,6 +1,7 @@
 {$SiteName = "Capital Coin Investment"}
 {$PageTage = "Secured Investment Platform"}
 {$siteLogo = "/assets/images/logo/logo.png"}
+{$siteLogoDark = "/assets/images/logo/logo.png"}
 {$siteIcon = "/assets/images/logo/favicon.png"}
 
 <!DOCTYPE html>
@@ -13,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="A powerful and conceptual apps base dashboard template that especially build for developers and programmers.">
     <!-- Fav Icon  -->
-    <link rel="shortcut icon" href="/images/favicon.png">
+    <link rel="shortcut icon" href="{$siteIcon}">
     <!-- Page Title  -->
     <title>Login | {$SiteName} | {$PageTage}</title>
     <!-- StyleSheets  -->
