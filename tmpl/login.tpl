@@ -293,21 +293,27 @@
                     <div class="form-group">
                         <div class="form-label-group">
                             <label class="form-label" for="password">Passcode</label>
-                            <a class="link link-primary link-sm" tabindex="-1" href="html/pages/auths/auth-reset-v3.html">Forgot Code?</a>
+                            <a class="link link-primary link-sm" tabindex="-1" href="?a=forgot_password">Forgot Code?</a>
                         </div>
                         <div class="form-control-wrap">
                             <a tabindex="-1" href="#" class="form-icon form-icon-right passcode-switch lg" data-target="password">
                                 <em class="passcode-icon icon-show icon ni ni-eye"></em>
                                 <em class="passcode-icon icon-hide icon ni ni-eye-off"></em>
                             </a>
-                            <input type="password" class="form-control form-control-lg" id="password" placeholder="Enter your passcode">
+                            <input type="password" name=password value='' class="form-control form-control-lg" id="password" placeholder="Enter your passcode">
+                            {if $ti.check.login}
+                                <tr>
+                                    <td class=menutxt>Code: <img src="{" ?a=show_validation_image&`$ti.session.name`=`$ti.session.id`&rand=`$ti.session.rand`"|encurl}"></td>
+                                    <td><input type=text name=validation_number class=inpts size=30></td>
+                                </tr>
+                            {/if}
                         </div>
                     </div><!-- .form-group -->
                     <div class="form-group">
-                        <button class="btn btn-lg btn-primary btn-block">Sign in</button>
+                        <button class="btn btn-lg btn-primary btn-block" type=submit value="Login">Sign in</button>
                     </div>
                 </form><!-- form -->
-                <div class="form-note-s2 pt-4"> New on our platform? <a href="html/pages/auths/auth-register-v3.html">Create an account</a>
+                <div class="form-note-s2 pt-4"> New on our platform? <a href="?a=signup">Create an account</a>
                 </div>
                 <div class="text-center pt-4 pb-3">
                     <h6 class="overline-title overline-title-sap"><span>OR</span></h6>
