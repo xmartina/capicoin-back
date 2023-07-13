@@ -13,7 +13,7 @@
         </div>
 
         <div class="item">
-            <img src="img_chania2.jpg" alt="Chania" width="460" height="345">
+            <img src="https://cryptogiant.biz/home-page/images/slider/bg2.jpg" alt="Image_2">
             <div class="carousel-caption">
                 <h3>Chania</h3>
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
