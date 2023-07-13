@@ -16,7 +16,12 @@
     <link rel="stylesheet" href="/assets/css/dashlite.css?ver=3.2.0">
     <link rel="stylesheet" href="/assets/css/dashlite.min.css">
     <link id="skin-default" rel="stylesheet" href="/assets/css/theme.css?ver=3.2.0">
-
+    <style>
+        .carousel-inner > .item > img,
+        .carousel-inner > .item > a > img {
+            margin: auto;
+        }
+    </style>
 </head>
 
 <body class="nk-body bg-white npc-landing ">
