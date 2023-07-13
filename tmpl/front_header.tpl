@@ -20,6 +20,7 @@
         .carousel-inner > .item > img,
         .carousel-inner > .item > a > img {
             width: 100%;
+            height: 360px;
             margin: auto;
         }
     </style>
