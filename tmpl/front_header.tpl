@@ -19,6 +19,7 @@
     <style>
         .carousel-inner > .item > img,
         .carousel-inner > .item > a > img {
+            object-fit: cover;
             width: 100%;
             height: 360px;
             margin: auto;
