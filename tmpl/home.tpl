@@ -294,6 +294,8 @@
 <!-- JavaScript -->
 <script src="/assets/js/bundle.js?ver=3.2.0"></script>
 <script src="/assets/js/front_script.js?ver=3.2.0"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.0/js/bootstrap.min.js"></script>
 </body>
 
 </html>
