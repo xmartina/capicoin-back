@@ -5,7 +5,7 @@
     <div class="carousel-inner" role="listbox">
 
         <div class="item active">
-            <img src="https://cryptogiant.biz/home-page/images/slider/bg1.jpg" alt="Image" width="auto" height="auto">
+            <img src="https://cryptogiant.biz/home-page/images/slider/bg1.jpg" alt="Image" height="inherit" class="w-100 ">
             <div class="carousel-caption">
                 <h3>Chania</h3>
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
