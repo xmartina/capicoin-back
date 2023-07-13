@@ -12,7 +12,7 @@
     <!-- Page Title  -->
     <title>Home | DashLite Admin Template</title>
     <!-- StyleSheets  -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/dashlite.css?ver=3.2.0">
     <link rel="stylesheet" href="/assets/css/dashlite.min.css">
     <link id="skin-default" rel="stylesheet" href="/assets/css/theme.css?ver=3.2.0">
