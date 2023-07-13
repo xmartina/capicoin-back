@@ -1,26 +1,21 @@
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    </ol>
+<div id="carouselExampleInterval" class="carousel slide" data-mdb-ride="carousel">
     <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-100" src="..." alt="First slide">
+        <div class="carousel-item active" data-mdb-interval="10000">
+            <img src="https://mdbcdn.b-cdn.net/img/new/slides/041.webp" class="d-block w-100" alt="Wild Landscape"/>
+        </div>
+        <div class="carousel-item" data-mdb-interval="2000">
+            <img src="https://mdbcdn.b-cdn.net/img/new/slides/042.webp" class="d-block w-100" alt="Camera"/>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="..." alt="Second slide">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="..." alt="Third slide">
+            <img src="https://mdbcdn.b-cdn.net/img/new/slides/043.webp" class="d-block w-100" alt="Exotic Fruits"/>
         </div>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <button class="carousel-control-prev" data-mdb-target="#carouselExampleInterval" type="button" data-mdb-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" data-mdb-target="#carouselExampleInterval" type="button" data-mdb-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
+        <span class="visually-hidden">Next</span>
+    </button>
 </div>
