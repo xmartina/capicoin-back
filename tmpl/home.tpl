@@ -1,34 +1,7 @@
 
 
 {include file="front_header.tpl"}
-      <div class="header-content py-6 is-dark mt-lg-n1 mt-n3">
-        <div class="container">
-          <div class="row flex-row-reverse justify-content-center text-center g-gs">
-            <div class="col-lg-6 col-md-7">
-              <div class="header-caption">
-                <h1 class="header-title">Powelful Tool To Represent Your Dashboard.</h1>
-                <p>A powerful admin dashboard template that especially build for developers and programmers. DashLite comes with all kind of components.</p>
-                <ul class="header-action btns-inline py-3">
-                  <li>
-                    <a href="#" class="btn btn-primary btn-lg"><span>Get Started</span></a>
-                  </li>
-                  <li>
-                    <a href="#" class="btn btn-danger btn-lg"><span>View Demo</span></a>
-                  </li>
-                </ul><!-- .header-action -->
-                <ul class="header-icon list-inline pt-1">
-                  <li><img class="h-20px" src="./images/icon/libs/javascript.png" alt=""></li>
-                  <li><img class="h-20px" src="./images/icon/libs/sass.png" alt=""></li>
-                  <li><img class="h-20px" src="./images/icon/libs/gulp.png" alt=""></li>
-                  <li><img class="h-20px" src="./images/icon/libs/bootstrap.png" alt=""></li>
-                  <li><img class="h-20px" src="./images/icon/libs/html5.png" alt=""></li>
-                  <li><img class="h-20px" src="./images/icon/libs/css3.png" alt=""></li>
-                </ul>
-              </div><!-- .header-caption -->
-            </div><!-- .col -->
-          </div><!-- .row -->
-        </div><!-- .container -->
-      </div><!-- .header-content -->
+      {include file="home_slider.tpl"}
     </header><!-- .header -->
     <section class="section section-service pb-0" id="feature">
       <div class="container">
