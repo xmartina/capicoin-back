@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="A powerful and conceptual apps base dashboard template that especially build for developers and programmers.">
     <!-- Fav Icon  -->
-    <link rel="shortcut icon" href="/images/favicon.png">
+    <link rel="shortcut icon" href="{$siteIcon}">
     <!-- Page Title  -->
     <title>Home | {$SiteName} | {$PageTage}</title>
     <!-- StyleSheets  -->
@@ -62,9 +62,9 @@
                         <nav class="header-menu" data-content="mainNav">
                             <ul class="menu-list ms-lg-auto">
                                 <li class="menu-item"><a href="/" class="menu-link menu-toggle">Home</a></li>
-                                <li class="menu-item"><a href="#" class="menu-link menu-toggle">About</a></li>
-                                <li class="menu-item"><a href="#home" class="menu-link nav-link">FAQ</a></li>
-                                <li class="menu-item"><a href="#feature" class="menu-link nav-link">Support</a></li>
+                                <li class="menu-item"><a href="?a=about" class="menu-link menu-toggle">About</a></li>
+                                <li class="menu-item"><a href="?a=faq" class="menu-link nav-link">FAQ</a></li>
+                                <li class="menu-item"><a href="?a=support" class="menu-link nav-link">Support</a></li>
                             </ul>
                             <ul class="menu-btns">
                                 <li>
