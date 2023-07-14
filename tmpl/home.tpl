@@ -8,8 +8,7 @@
         <div class="row justify-content-center text-center">
           <div class="col-sm-8 col-lg-6">
             <div class="section-head">
-              <h2 class="title text-capitalize">BRAND NEW
-                ONLINE TRADING PLATFORM</h2>
+              <h2 class="title text-capitalize">Brand New Online Trading Platform</h2>
             </div><!-- .section-head -->
           </div><!-- .col -->
         </div><!-- .row -->
