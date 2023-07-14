@@ -30,6 +30,11 @@
             height: 360px;
             margin: auto;
         }
+        .about-sec-2-img{
+            height: 450px;
+            object-fit: cover;
+            object-position: center center;
+        }
     </style>
 </head>
 
