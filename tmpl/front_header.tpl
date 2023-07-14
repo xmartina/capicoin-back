@@ -16,7 +16,7 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="{$siteIcon}">
     <!-- Page Title  -->
-    <title>Home | {$SiteName} | {$PageTage}</title>
+    <title>{$pageName} | {$SiteName} | {$PageTage}</title>
     <!-- StyleSheets  -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/dashlite.css?ver=3.2.0">
