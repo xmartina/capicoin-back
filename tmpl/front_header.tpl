@@ -62,7 +62,11 @@
                             </ul>
                             <ul class="menu-btns">
                                 <li>
-                                    <a href="https://1.envato.market/e0y3g" target="_blank" class="btn btn-primary btn-lg">Download App</a>
+                                    {if $userinfo.logged != 1}
+                                    <a href="?a=signup" target="_blank" class="btn btn-primary btn-lg">Account</a>
+                                    {else}
+                                    <a href="?a=account" target="_blank" class="btn btn-primary btn-lg">My Dashboard</a>
+                                    {/if}
                                 </li>
                             </ul>
                         </nav><!-- .nk-nav-menu -->
