@@ -146,7 +146,7 @@
                 <h4 class="title pb-2 fw-normal">Startup plan</h4>
                 <h1 class="pb-4 fw-medium"><sub>10</sub>%</h1>
                 <ul class="list list-success list-check gy-2">
-                  <li>After<strong>24 Hours</strong></li>
+                  <li>After <strong>24 Hours</strong></li>
                   <li>Minimum deposit: <strong>$50</strong></li>
                   <li>Maximum deposit: <strong>$3,999</strong></li>
                 </ul>
@@ -159,17 +159,15 @@
           <div class="col-xl-4 col-lg-4 col-sm-6">
             <div class="pricing pricing-s3 pricing-featured card card-shadow card-bordered round-xl">
               <div class="card-inner card-inner-lg">
-                <h4 class="title pb-2 fw-normal">Premium</h4>
-                <h1 class="pb-4 fw-medium"><sub>$</sub>20</h1>
+                <h4 class="title pb-2 fw-normal">Silver Package</h4>
+                <h1 class="pb-4 fw-medium"><sub>15</sub>%</h1>
                 <ul class="list list-success list-check gy-2">
-                  <li><strong>16 Dashboard</strong></li>
-                  <li><strong>24/7 Live Support</strong></li>
-                  <li><strong>20 screen</strong></li>
-                  <li><strong>Tech Support</strong></li>
-                  <li><strong>Analytics & Reports</strong></li>
+                  <li>After <strong>48 Hours</strong></li>
+                  <li>Minimum deposit: <strong>$4,000</strong></li>
+                  <li>Maximum deposit: <strong>$9,999</strong></li>
                 </ul>
                 <div class="pricing-action">
-                  <a href="#" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                  <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                 </div>
               </div>
             </div>
@@ -177,17 +175,79 @@
           <div class="col-xl-4 col-lg-4 col-sm-6">
             <div class="pricing pricing-s3 pricing-s3-featured card card-shadow card-bordered round-xl">
               <div class="card-inner card-inner-lg">
-                <h4 class="title pb-2 fw-normal">Ultimate</h4>
-                <h1 class="pb-4 fw-medium"><sub>$</sub>30</h1>
+                <h4 class="title pb-2 fw-normal">Gold Package</h4>
+                <h1 class="pb-4 fw-medium"><sub>35</sub>%</h1>
                 <ul class="list list-success list-check gy-2">
-                  <li><strong>6 Dashboard</strong></li>
-                  <li><strong>24/7 Live Support</strong></li>
-                  <li><strong>20 screen</strong></li>
-                  <li><strong>Tech Support</strong></li>
-                  <li><strong>Clean Design</strong></li>
+                  <li>After <strong>72 Hours</strong></li>
+                  <li>Minimum deposit: <strong>$10,000</strong></li>
+                  <li>Maximum deposit: <strong>$15,999</strong></li>
                 </ul>
                 <div class="pricing-action">
-                  <a href="#" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                  <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- .col -->
+          <div class="col-xl-4 col-lg-4 col-sm-6">
+            <div class="pricing pricing-s3 pricing-s3-featured card card-shadow card-bordered round-xl">
+              <div class="card-inner card-inner-lg">
+                <h4 class="title pb-2 fw-normal">Diamond Package</h4>
+                <h1 class="pb-4 fw-medium"><sub>50</sub>%</h1>
+                <ul class="list list-success list-check gy-2">
+                  <li>After <strong>96 Hours</strong></li>
+                  <li>Minimum deposit: <strong>$16,000</strong></li>
+                  <li>Maximum deposit: <strong>$20,000</strong></li>
+                </ul>
+                <div class="pricing-action">
+                  <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- .col -->
+          <div class="col-xl-4 col-lg-4 col-sm-6">
+            <div class="pricing pricing-s3 pricing-s3-featured card card-shadow card-bordered round-xl">
+              <div class="card-inner card-inner-lg">
+                <h4 class="title pb-2 fw-normal">Traditional map</h4>
+                <h1 class="pb-4 fw-medium"><sub>130</sub>%</h1>
+                <ul class="list list-success list-check gy-2">
+                  <li>After <strong>30 Days</strong></li>
+                  <li>Minimum deposit: <strong>$25,000</strong></li>
+                  <li>Maximum deposit: <strong>$49,000</strong></li>
+                </ul>
+                <div class="pricing-action">
+                  <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- .col -->
+          <div class="col-xl-4 col-lg-4 col-sm-6">
+            <div class="pricing pricing-s3 pricing-s3-featured card card-shadow card-bordered round-xl">
+              <div class="card-inner card-inner-lg">
+                <h4 class="title pb-2 fw-normal">Black box package</h4>
+                <h1 class="pb-4 fw-medium"><sub>150</sub>%</h1>
+                <ul class="list list-success list-check gy-2">
+                  <li>After <strong>72 Days</strong></li>
+                  <li>Minimum deposit: <strong>$50,000</strong></li>
+                  <li>Maximum deposit: <strong>$79,999</strong></li>
+                </ul>
+                <div class="pricing-action">
+                  <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- .col -->
+          <div class="col-xl-4 col-lg-4 col-sm-6">
+            <div class="pricing pricing-s3 pricing-s3-featured card card-shadow card-bordered round-xl">
+              <div class="card-inner card-inner-lg">
+                <h4 class="title pb-2 fw-normal">Ultimate plan</h4>
+                <h1 class="pb-4 fw-medium"><sub>200</sub>%</h1>
+                <ul class="list list-success list-check gy-2">
+                  <li>After <strong>96 Days</strong></li>
+                  <li>Minimum deposit: <strong>$80,000</strong></li>
+                  <li>Maximum deposit: <strong>$100,000</strong></li>
+                </ul>
+                <div class="pricing-action">
+                  <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                 </div>
               </div>
             </div>
@@ -200,39 +260,14 @@
         <div class="row align-items-center justify-content-between g-gs">
           <div class="col-lg-6">
             <div class="img-block">
-              <img src="./images/gfx/f.png" alt="img">
+              <img src="/assets/images/home/about-sec-3.jpg" alt="img">
             </div>
           </div><!-- .col -->
           <div class="col-xl-5 col-lg-6">
             <div class="text-block">
-              <h2 class="title fw-medium">Story of Making DashLite</h2>
-              <p>In marketplace, most of dashboard are generic. On other hand developers and programmers faced lots problem to build their application because those generic dashboard does not provide real-use-case pages. To solve the problem, Softnio Team make a vision.</p>
-              <p>Our vision is so simple. Create the largest and the most comprehensive conceptual base dashboard including great UI/UX.</p>
-              <h6 class="overline-title">Designed and developed by</h6>
-              <div class="row gy-3">
-                <div class="col-sm-6">
-                  <div class="user user-s1">
-                    <div class="img">
-                      <img class="img-circle sm" src="./images/client/sq-b.jpg" alt="">
-                    </div><!-- img-->
-                    <div class="info">
-                      <h6 class="name">Abu Bin Ishityak</h6>
-                      <div class="role text-uppercase">Role as Designer</div>
-                    </div>
-                  </div><!-- user -->
-                </div>
-                <div class="col-sm-6">
-                  <div class="user user-s1">
-                    <div class="img">
-                      <img class="img-circle sm" src="./images/client/sq-a.jpg" alt="">
-                    </div><!-- img-->
-                    <div class="info">
-                      <h6 class="name">Softnio Team</h6>
-                      <div class="role text-uppercase">Role as Designer</div>
-                    </div>
-                  </div><!-- user -->
-                </div>
-              </div>
+              <h2 class="title fw-medium">At {$SiteName}</h2>
+              <p>we believe there is no better advertisement than satisfied clients. No wonder that majority of our new clients are affiliates from our existing clients. We are proud that our clients like to recommend our financial service to others</p>
+              <p>Because of this, we are pleased to offer one of the strongest online affiliate programs in the financial service industry, with a high commission rate, customized tools and reports, and timely commission payouts.</p>
             </div><!-- .text-block -->
           </div><!-- .col -->
         </div><!-- .row -->
@@ -243,11 +278,11 @@
         <div class="row justify-content-center text-center">
           <div class="col-xl-6 col-lg-7 col-md-8">
             <div class="text-block is-compact">
-              <h2 class="title">Experience Our Dashlite Service</h2>
+              <h2 class="title">Get Started Today With {$SiteName}</h2>
               <p>Our vision is so simple. Create the largest and the most comprehensive conceptual base dashboard including great UI/UX ui/ux.</p>
               <ul class="btns-inline">
                 <li>
-                  <a href="#" class="btn btn-lg btn-primary">Get Dashlite</a>
+                  <a href="?a=signup" class="btn btn-lg btn-primary">Register</a>
                 </li>
               </ul>
             </div>
@@ -260,9 +295,9 @@
         <div class="row g-3 align-items-center">
           <div class="col-md-3">
             <div class="footer-logo">
-              <a href="html/index.html" class="logo-link">
-                <img class="logo-light logo-img" src="./images/logo.png" srcset="./images/logo2x.png 2x" alt="logo">
-                <img class="logo-dark logo-img" src="./images/logo-dark.png" srcset="./images/logo-dark2x.png 2x" alt="logo-dark">
+              <a href="/" class="logo-link">
+                <img class="logo-light logo-img" src="{$siteLogo}" srcset="{$siteLogo} 2x" alt="logo">
+                <img class="logo-dark logo-img" src="{$siteLogo}" srcset="{$siteLogo} 2x" alt="logo-dark">
               </a>
             </div><!-- .footer-logo -->
           </div><!-- .col -->
@@ -277,7 +312,7 @@
         </div>
         <div class="row g-3 align-items-center pt-4">
           <div class="col-md-8">
-            <div class="text-base">&copy; 2023 Dashlite. Template Made by <a class="text-base fw-bold" href="#">Softnio</a></div>
+            <div class="text-base">&copy; 2023 {$SiteName}. | All Rights Reserved</div>
           </div><!-- .col -->
           <div class="col-md-4 d-flex justify-content-md-end">
             <ul class="social">
