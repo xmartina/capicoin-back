@@ -11,9 +11,6 @@
         <div class="container">
           <div class="row flex-lg-row-reverse align-items-center justify-content-between g-gs">
             <div class="col-lg-6">
-              <div class="header-image header-image-s2">
-                <img src="./images/header/gfx-b.png" alt="">
-              </div><!-- .header-image -->
             </div><!-- .col- -->
             <div class="col-lg-5 col-md-10">
               <div class="header-caption">
