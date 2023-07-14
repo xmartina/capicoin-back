@@ -31,7 +31,8 @@
             margin: auto;
         }
         .about-sec-2-img{
-            height: 450px;
+            width: 100%;
+            height: 490px;
             object-fit: cover;
             object-position: center center;
         }
