@@ -156,7 +156,7 @@
               </div><!-- .header-caption -->
             </div><!-- .col -->
           </div>
-          <div class="row">
+          <div class="row mt-5">
             <div class="col-lg-4">
               <div class="header-text">
                 <p>Welcome to the website of {$SiteName} If you find yourself here, you are definitely in search of reliable and profitable investment. Yes, you are just at the right place! Our company offers trust assets management of the highest quality on the basis of foreign exchange and profitable trade through Funds exchanges. There is no other worldwide financial market that can guarantee a</p>
