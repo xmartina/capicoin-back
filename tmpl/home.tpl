@@ -93,7 +93,7 @@
           </div><!-- .col -->
           <div class="col-lg-5">
             <div class="text-block">
-              <h2 class="title mb-3">WE ARE AN INVESTMENT COMPANY SPECIALIZED IN TRADING THE FINANCIAL MARKET. </h2>
+              <h2 class="title mb-3">We are an investment company, specialized in trading the financial market. </h2>
               <ul class="list list-lg list-purple list-checked-circle gy-4">
                 <li class="ps-5"><strong>Amazing Features</strong>: For Enhanced performance we use Lite Speed web server, HTTP/2,PHP7.We make your Everything stays organized by to pic.Need to discuss a topic further.</li>
                 <li class="ps-5"><strong>Topics, notes and action items</strong>: Everything stays organized by topic.Need to discuss a topic further? Set it to Revisit and it.We make your everything stays organized.</li>
