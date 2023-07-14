@@ -95,8 +95,8 @@
             <div class="text-block">
               <h2 class="title mb-3">We are an investment company, specialized in trading the financial market. </h2>
               <ul class="list list-lg list-purple list-checked-circle gy-4">
-                <li class="ps-5"><strong>Amazing Features</strong>: For Enhanced performance we use Lite Speed web server, HTTP/2,PHP7.We make your Everything stays organized by to pic.Need to discuss a topic further.</li>
-                <li class="ps-5"><strong>Topics, notes and action items</strong>: Everything stays organized by topic.Need to discuss a topic further? Set it to Revisit and it.We make your everything stays organized.</li>
+                <li class="ps-5"><strong>Our Advantages</strong>: Our Investment Options are very fair and all transactional data is stored on Block chain, which allows to create, transfer and verify ultra-secure financial data without interference of third parties.</li>
+                <li class="ps-5"><strong>Our Mission</strong>: Our mission as a platform is to help get you on the right track and earn out of every option even as you start your investment journey.</li>
               </ul>
             </div><!-- .text-block -->
           </div><!-- .col -->
