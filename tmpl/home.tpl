@@ -1,5 +1,9 @@
 
-
+{$SiteName = "Capital Coin Investment"}
+{$PageTage = "Secured Investment Platform"}
+{$siteLogo = "/assets/images/logo/logo.png"}
+{$siteLogoDark = "/assets/images/logo/logo.png"}
+{$siteIcon = "/assets/images/logo/favicon.png"}
 {include file="front_header.tpl"}
       {include file="home_slider.tpl"}
     </header><!-- .header -->
@@ -113,12 +117,12 @@
           </div><!-- .col -->
           <div class="col-lg-5">
             <div class="text-block">
-              <h2 class="title mb-3">Amazing Tool For Creative Profesional</h2>
-              <p>Bring to the table win-win survival strategies to ensure proactive domination.At the end of the day, going forward, a new normal that has envolved from generation X ison the runway heading toward</p>
+              <h2 class="title mb-3">{$SiteName} Benefits</h2>
+              <p>Looking for highest returns on your investments? {$SiteName} is an automatic online investment platform, part of {$SiteName} – team of professional traders focusing mainly on Bitcoin and other cryptocurrencies trading over multiple Exchanges and markets.</p>
               <ul class="list list-lg list-purple list-checked-circle pt-1">
-                <li class="ps-5 pb-1"><strong>Where meetings come together in one</strong></li>
-                <li class="ps-5 pb-1"><strong>Workspaces forevery meeting.</strong></li>
-                <li class="ps-5 pb-1"><strong>Amazing Feature.For Enhanced performance.</strong></li>
+                <li class="ps-5 pb-1"><strong>PROFESSIONAL TEAM</strong></li>
+                <li class="ps-5 pb-1"><strong>GREAT CUSTOMER SUPPORT.</strong></li>
+                <li class="ps-5 pb-1"><strong>INSTANT WITHDRAWALS</strong></li>
               </ul>
             </div><!-- .text-block -->
           </div><!-- .col -->
@@ -131,7 +135,7 @@
           <div class="col-xl-6 col-md-8 col-sm-10">
             <div class="section-head text-center">
               <h2 class="title fw-medium">Choose Your Plan</h2>
-              <p>Best plan dolor sit amet, consectetur adipiscing elit. Commodo at fringilla dictum ut ante habitasse quis. Ut integer in </p>
+              <p>Here is our several investment plans. You can invest daily, weekly or monthly and get higher returns in your investment. </p>
             </div><!-- .section-head -->
           </div><!-- .col -->
         </div><!-- .row -->
