@@ -143,17 +143,15 @@
           <div class="col-xl-4 col-lg-4 col-sm-6">
             <div class="pricing pricing-s3 pricing-s3-featured card card-shadow card-bordered round-xl">
               <div class="card-inner card-inner-lg">
-                <h4 class="title pb-2 fw-normal">Basic</h4>
-                <h1 class="pb-4 fw-medium"><sub>$</sub>15</h1>
+                <h4 class="title pb-2 fw-normal">Startup plan</h4>
+                <h1 class="pb-4 fw-medium"><sub>10</sub>%</h1>
                 <ul class="list list-success list-check gy-2">
-                  <li><strong>6 Dashboard</strong></li>
-                  <li><strong>24/7 Live Support</strong></li>
-                  <li><strong>20 screen</strong></li>
-                  <li><strong>Tech Support</strong></li>
-                  <li><strong>Clean Design</strong></li>
+                  <li>After<strong>24 Hours</strong></li>
+                  <li>Minimum deposit: <strong>$50</strong></li>
+                  <li>Maximum deposit: <strong>$3,999</strong></li>
                 </ul>
                 <div class="pricing-action">
-                  <a href="#" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                  <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                 </div>
               </div>
             </div>
