@@ -112,7 +112,7 @@
         <div class="row g-gs flex-row-reverse justify-content-between align-items-center">
           <div class="col-lg-6">
             <div class="img-block">
-              <img src="./images/gfx/e.png" alt="Dashlite">
+              <img src="/assets/images/home/about-sec-3.jpg" alt="Dashlite">
             </div>
           </div><!-- .col -->
           <div class="col-lg-5">
