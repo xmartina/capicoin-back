@@ -1,3 +1,4 @@
+{$SiteName = "Capital Coin Investment"}
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
     <!-- Wrapper for slides -->
