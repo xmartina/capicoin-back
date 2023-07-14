@@ -3,7 +3,6 @@
 {$siteLogo = "/assets/images/logo/logo.png"}
 {$siteLogoDark = "/assets/images/logo/logo.png"}
 {$siteIcon = "/assets/images/logo/favicon.png"}
-{$pageName = "Login"}
 <!DOCTYPE html>
 <html lang="zxx" class="js">
 
