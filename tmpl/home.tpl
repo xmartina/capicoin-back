@@ -303,10 +303,10 @@
           </div><!-- .col -->
           <div class="col-md-9 d-flex justify-content-md-end">
             <ul class="link-inline gx-4">
-              <li><a href="#">All Preview</a></li>
-              <li><a href="#">Features</a></li>
-              <li><a href="#">Doc</a></li>
-              <li><a href="#">Need Help?</a></li>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">FAQ</a></li>
+              <li><a href="#">Support</a></li>
             </ul><!-- .footer-nav -->
           </div><!-- .col -->
         </div>
