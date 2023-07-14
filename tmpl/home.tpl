@@ -29,8 +29,8 @@
                                         </svg>
                 </div><!-- .service-icon -->
                 <div class="service-text">
-                  <h4 class="title">Friendly Design</h4>
-                  <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusm lod tempor incididunt ctechtner.</p>
+                  <h4 class="title">Register</h4>
+                  <p>Complete Our Short KYC Process and Verify Your Email Address.</p>
                 </div><!-- .service-text -->
               </div><!-- .service -->
             </div><!-- .col -->
@@ -46,8 +46,8 @@
                                         </svg>
                 </div><!-- .service-icon -->
                 <div class="service-text">
-                  <h4 class="title">Strong Security</h4>
-                  <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusm lod tempor incididunt ctechtner.</p>
+                  <h4 class="title">Buy Into An Option</h4>
+                  <p>Just Fund your wallet and buy into an option or let our system pick one for you.</p>
                 </div><!-- .secvice-text -->
               </div><!-- .service -->
             </div><!-- .col- -->
@@ -74,8 +74,8 @@
                                         </svg>
                 </div><!-- .service-icon -->
                 <div class="service-text">
-                  <h4 class="title">Data Analycis</h4>
-                  <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusm lod tempor incididunt ctechtner.</p>
+                  <h4 class="title">Start Earning</h4>
+                  <p>Instantly watch your investment grow. Pay-Outs Every Day</p>
                 </div><!-- .service-text -->
               </div><!-- .service -->
             </div><!-- .col -->
@@ -88,12 +88,12 @@
         <div class="row g-gs justify-content-between align-items-center">
           <div class="col-lg-6">
             <div class="img-block">
-              <img src="./images/gfx/d.png" alt="">
+              <img src="/images/gfx/d.png" alt="">
             </div>
           </div><!-- .col -->
           <div class="col-lg-5">
             <div class="text-block">
-              <h2 class="title mb-3">Topics, Notes And Action Items All In One Place </h2>
+              <h2 class="title mb-3">WE ARE AN INVESTMENT COMPANY SPECIALIZED IN TRADING THE FINANCIAL MARKET. </h2>
               <ul class="list list-lg list-purple list-checked-circle gy-4">
                 <li class="ps-5"><strong>Amazing Features</strong>: For Enhanced performance we use Lite Speed web server, HTTP/2,PHP7.We make your Everything stays organized by to pic.Need to discuss a topic further.</li>
                 <li class="ps-5"><strong>Topics, notes and action items</strong>: Everything stays organized by topic.Need to discuss a topic further? Set it to Revisit and it.We make your everything stays organized.</li>
