@@ -88,7 +88,7 @@
         <div class="row g-gs justify-content-between align-items-center">
           <div class="col-lg-6">
             <div class="img-block">
-              <img src="/images/gfx/d.png" alt="">
+              <img src="/assets/images/home/about-sec-2.jpg" alt="">
             </div>
           </div><!-- .col -->
           <div class="col-lg-5">
