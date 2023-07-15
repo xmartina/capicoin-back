@@ -46,7 +46,9 @@
 
 <script>
     $('.carousel').carousel()
-    $('#myModal').modal(options)
+    $(window).on('load',function(){
+        $('#myModal').modal('show');
+    });
 </script>
 </body>
 
