@@ -82,8 +82,8 @@
           {/if}
           <div class="row">
             <div class="col-lg-6">
-              <td>Your Name:</td>
               {if $userinfo.logged}
+              <td>Your Name:</td>
                 <td><b>{$userinfo.name}</b></td>
               {else}
               <label>
