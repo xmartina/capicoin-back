@@ -221,7 +221,7 @@ function checkform() {
       </div><!-- .col -->
     </div><!-- .row -->
     <div class="row justify-content-center">
-      <div class="col-lg-7">
+      <div class="col-lg-5">
         <div class="my-3 mx-4">
           Do You have any questions?<br>
           We strongly recommend that you start searching for the necessary information in the FAQ section.
@@ -233,7 +233,7 @@ function checkform() {
           Do not forget to indicate your login if you are a registered user of the website.
         </div>
       </div><!-- .col -->
-      <div class="col-lg-5">
+      <div class="col-lg-7">
         <form action="">
           <div class="row">
             <div class="col-lg-6">
