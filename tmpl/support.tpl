@@ -81,11 +81,11 @@
             </ul>
           {/if}
           <div class="row">
+            {if $userinfo.logged}
+            <td>Your Name:</td>
+            <td><b>{$userinfo.name}</b></td>
+            {else}
             <div class="col-lg-6">
-              {if $userinfo.logged}
-              <td>Your Name:</td>
-                <td><b>{$userinfo.name}</b></td>
-              {else}
               <label>
                 <input type="text" name="name" value="{$frm.name|escape:htmlall}" class="form-control" placeholder="First Name">
               </label>
