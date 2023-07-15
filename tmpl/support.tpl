@@ -3,7 +3,7 @@
 {$siteLogo = "/assets/images/logo/logo.png"}
 {$siteLogoDark = "/assets/images/logo/logo.png"}
 {$siteIcon = "/assets/images/logo/favicon.png"}
-{$pageName = "FAQ"}
+{$pageName = "Contact Us"}
 {include file="front_header.tpl"}
 <section class="section bg-lighter section-faq" id="faqs">
   <div class="container">
