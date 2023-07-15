@@ -254,7 +254,7 @@ function checkform() {
             </label>
             <div class="row">
               <div class="col-xl-3">
-                <div class="btn bg-info mx-2 my-2">Submit</div>
+                <div class="btn bg-info mx-2 my-2 text-light">Submit</div>
               </div>
             </div>
           </div>
