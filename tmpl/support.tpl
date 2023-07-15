@@ -95,6 +95,7 @@
                 <input type="text" class="form-control" placeholder="Last Name">
               </label>
             </div>
+          </div>
               {/if}
             {if $userinfo.logged}
               <td><b>{$userinfo.email}</b></td>
