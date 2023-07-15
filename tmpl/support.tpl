@@ -241,11 +241,12 @@ function checkform() {
                 <input type="text" class="form-control" placeholder="First Name">
               </label>
             </div>
-            <div class="col-lg-6">
-              <label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-              </label>
-            </div>
+            <label>
+              <input type="text" class="form-control" placeholder="Email Address">
+            </label>
+            <label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Your Message"></textarea>
+            </label>
           </div>
           <input type="textarea">
         </form>
