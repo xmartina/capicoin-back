@@ -116,7 +116,7 @@
             {/if}
             <div class="row">
               <div class="col-xl-3">
-                <div class="btn bg-info mx-2 my-2 text-light" type=submit value="Send">Submit</div>
+                <button class="btn bg-info mx-2 my-2 text-light" type=submit value="Send">Submit</button>
               </div>
             </div>
           </div>
