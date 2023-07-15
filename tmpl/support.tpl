@@ -221,7 +221,7 @@ function checkform() {
       </div><!-- .col -->
     </div><!-- .row -->
     <div class="row justify-content-center">
-      <div class="col-lg-5">
+      <div class="col-lg-6">
         <div class="my-3 mx-4">
           Do You have any questions?<br>
           We strongly recommend that you start searching for the necessary information in the FAQ section.
@@ -233,20 +233,21 @@ function checkform() {
           Do not forget to indicate your login if you are a registered user of the website.
         </div>
       </div><!-- .col -->
-      <div class="col-lg-7">
+      <div class="col-lg-6">
         <form action="">
           <div class="row">
             <div class="col-lg-6">
               <label>
-                <input type="text" placeholder="First Name">
+                <input type="text" class="form-control" placeholder="First Name">
               </label>
             </div>
             <div class="col-lg-6">
               <label>
-                <input type="text" placeholder="Last Name">
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
               </label>
             </div>
           </div>
+          <input type="textarea">
         </form>
       </div><!-- .col -->
     </div><!-- .row -->
