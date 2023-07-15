@@ -252,7 +252,11 @@ function checkform() {
             <label>
               <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Your Message"></textarea>
             </label>
-            <div class="btn bg-info mx-2 my-2">Submit</div>
+            <div class="row">
+              <div class="col-xl-3">
+                <div class="btn bg-info mx-2 my-2">Submit</div>
+              </div>
+            </div>
           </div>
         </form>
       </div><!-- .col -->
