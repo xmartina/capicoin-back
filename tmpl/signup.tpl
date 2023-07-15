@@ -264,7 +264,14 @@
                                 {/section}
                         </ul>
                     {/if}
-
+                    {if $userinfo.logged == 1}
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-4"></div>
+                            <div class="col-lg-4">My Account</div>
+                        </div>
+                    </div>
+                    {else}
                     <div class="form-group">
                         <label class="form-label" for="Full Name" >Full Name</label>
                         <div class="form-control-wrap">
@@ -351,5 +358,6 @@
                 <div class="form-note-s2 pt-4"> Already have an account ? <a href="?a=login"><strong>Sign in instead</strong></a>
                 </div>
             </div><!-- .nk-block -->
+            {/if}
             {/if}
             {include file="auth_footer.tpl"}
