@@ -1,7 +1,7 @@
 
 
 {include file="front_header.tpl"}
-		<section class="section-white section-faq" id="faqs">
+		<section class="section bg-lighter section-faq" id="faqs">
 			<div class="container">
 				<div class="row justify-content-center text-center">
 					<div class="col-lg-6">
