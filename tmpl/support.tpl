@@ -202,3 +202,39 @@ function checkform() {
 </body>
 
 </html>
+
+
+{$SiteName = "Capital Coin Investment"}
+{$PageTage = "Secured Investment Platform"}
+{$siteLogo = "/assets/images/logo/logo.png"}
+{$siteLogoDark = "/assets/images/logo/logo.png"}
+{$siteIcon = "/assets/images/logo/favicon.png"}
+{$pageName = "FAQ"}
+{include file="front_header.tpl"}
+<section class="section bg-lighter section-faq" id="faqs">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-6">
+        <div class="section-head">
+          <h2 class="title">Frequently Asked Questions</h2>
+          <p>Got a question? We've got answers. If you have some other questions, Who are in extremely love with eco-friendly system.</p>
+        </div><!-- .section-head -->
+      </div><!-- .col -->
+    </div><!-- .row -->
+    <div class="row justify-content-center">
+      <div class="col-lg-7">
+        <div class="my-3 mx-4">
+          Do You have any questions?<br>
+          We strongly recommend that you start searching for the necessary information in the FAQ section.
+          If you need advice or technical assistance, do not hesitate to contact our specialists.
+          Customer support is available around the clock <br>
+          You just need <br>
+          to send a letter or a request via the feedback form to promptly receive the necessary assistance.
+          Remember that the more detailed the description of your problem is, the sooner it will be solved.
+          Do not forget to indicate your login if you are a registered user of the website.
+        </div>
+      </div><!-- .col -->
+    </div><!-- .row -->
+  </div><!-- .container -->
+</section><!-- .section -->
+{include file="front_footer.tpl"}
