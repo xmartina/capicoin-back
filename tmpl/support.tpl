@@ -216,8 +216,7 @@ function checkform() {
     <div class="row justify-content-center text-center">
       <div class="col-lg-6">
         <div class="section-head">
-          <h2 class="title">Frequently Asked Questions</h2>
-          <p>Got a question? We've got answers. If you have some other questions, Who are in extremely love with eco-friendly system.</p>
+          <h2 class="title">Contact Us</h2>
         </div><!-- .section-head -->
       </div><!-- .col -->
     </div><!-- .row -->
@@ -233,6 +232,22 @@ function checkform() {
           Remember that the more detailed the description of your problem is, the sooner it will be solved.
           Do not forget to indicate your login if you are a registered user of the website.
         </div>
+      </div><!-- .col -->
+      <div class="col-lg-5">
+        <form action="">
+          <div class="row">
+            <div class="col-lg-6">
+              <label>
+                <input type="text" placeholder="First Name">
+              </label>
+            </div>
+            <div class="col-lg-6">
+              <label>
+                <input type="text" placeholder="Last Name">
+              </label>
+            </div>
+          </div>
+        </form>
       </div><!-- .col -->
     </div><!-- .row -->
   </div><!-- .container -->
