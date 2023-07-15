@@ -44,14 +44,6 @@
 
                     </script>
                 {/literal}
-                {if $userinfo.logged == 1}
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-4"></div>
-                        <div class="col-lg-4">My Account</div>
-                    </div>
-                </div>
-                {else}
                 <form method=post name=mainform onsubmit="return checkform()">
                     <input type=hidden name=a value='do_login'>
                     <input type=hidden name=follow value='{$frm.follow}'>
@@ -100,5 +92,4 @@
                 </div>
 
             </div><!-- .nk-block -->
-            {/if}
 {include file="auth_footer.tpl"}
