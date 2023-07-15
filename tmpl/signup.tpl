@@ -355,9 +355,9 @@
                         <button type=submit value="Register" class="btn btn-lg btn-primary btn-block">Register</button>
                     </div>
                 </form><!-- form -->
+                {/if}
                 <div class="form-note-s2 pt-4"> Already have an account ? <a href="?a=login"><strong>Sign in instead</strong></a>
                 </div>
             </div><!-- .nk-block -->
-            {/if}
             {/if}
             {include file="auth_footer.tpl"}
