@@ -29,7 +29,7 @@
       </div><!-- .col -->
       <div class="col-lg-6">
         {if $say eq 'send'}
-          <p class="mx-3 my-2 text-warning-dim">Message has been successfully sent. We will back to you in next 24 hours. Thank you.</p>
+          <p class="mx-3 my-2 text-warning">Message has been successfully sent. We will back to you in next 24 hours. Thank you.</p>
         {else}
 
         <script language=javascript>
