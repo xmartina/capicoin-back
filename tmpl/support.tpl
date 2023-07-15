@@ -240,6 +240,9 @@ function checkform() {
               <label>
                 <input type="text" class="form-control" placeholder="First Name">
               </label>
+              <label>
+                <input type="text" class="form-control" placeholder="Last Name">
+              </label>
             </div>
             <label>
               <input type="text" class="form-control" placeholder="Email Address">
@@ -248,7 +251,6 @@ function checkform() {
               <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Your Message"></textarea>
             </label>
           </div>
-          <input type="textarea">
         </form>
       </div><!-- .col -->
     </div><!-- .row -->
