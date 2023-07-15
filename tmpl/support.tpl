@@ -240,6 +240,8 @@ function checkform() {
               <label>
                 <input type="text" class="form-control" placeholder="First Name">
               </label>
+            </div>
+            <div class="col-lg-6">
               <label>
                 <input type="text" class="form-control" placeholder="Last Name">
               </label>
@@ -250,6 +252,7 @@ function checkform() {
             <label>
               <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Your Message"></textarea>
             </label>
+            <div class="btn bg-info mx-2 my-2">Submit</div>
           </div>
         </form>
       </div><!-- .col -->
