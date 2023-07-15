@@ -143,4 +143,9 @@
     </div><!-- .row -->
   </div><!-- .container -->
 </section><!-- .section -->
+<script>
+  $(window).on('load',function(){
+    $('#myModal').modal('show');
+  });
+</script>
 {include file="front_footer.tpl"}
