@@ -1,3 +1,8 @@
+{$SiteName = "Capital Coin Investment"}
+{$PageTage = "Secured Investment Platform"}
+{$siteLogo = "/assets/images/logo/logo.png"}
+{$siteLogoDark = "/assets/images/logo/logo.png"}
+{$siteIcon = "/assets/images/logo/favicon.png"}
 <html style="height: 100%;"><head>
 	<!-- Fav Icon  -->
 	<link rel="shortcut icon" href="{$siteIcon}">
