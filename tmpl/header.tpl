@@ -33,7 +33,7 @@
 	<div class="main-header">
 		<div class="logo-header">
 			<a class="navbar-brand page-scroll sticky-logo" href="/">
-				<img src="/new/images/main-logo.png" class="site-logo" alt="">
+				<img src="{$siteLogo}" class="site-logo" alt="">
 			</a>
 			<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
