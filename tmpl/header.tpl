@@ -1,4 +1,6 @@
 <html style="height: 100%;"><head>
+	<!-- Fav Icon  -->
+	<link rel="shortcut icon" href="{$siteIcon}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>{$pageName} | {$settings.site_name}</title>
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no" name="viewport">
@@ -16,6 +18,8 @@
 			position: relative; min-height: 100%; top: 0;
 		}
 	</style>
+	<!-- Fav Icon  -->
+	<link rel="shortcut icon" href="{$siteIcon}">
 </head>
 <body class="body-class">
 
