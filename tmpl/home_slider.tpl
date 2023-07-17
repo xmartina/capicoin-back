@@ -9,7 +9,7 @@
                 <span class="text-light">Unbeatable Investment Plans</span>
             </div>
             <div class="cont-2 text-warning h5">Welcome to</div>
-            <div class="cont-3 h1 ff-alt text-warning">{$SiteName}</div>
+            <div class="cont-3 h1 font-weight-bolder ni text-warning">{$SiteName}</div>
             <div class="cont-4 text-light my-3">
                 <div class="row">
                     <div class="col-lg-6">
