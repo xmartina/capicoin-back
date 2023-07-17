@@ -1,6 +1,6 @@
 {$SiteName = "Capital Coin Investment"}
 <div class="jumbo">
-    <div class="jumbo-bg">
+    <div class="jumbo-bg py-5">
         <div class="jumbo-cont pl-4 container py-4">
             <div class="cont-1 pb-3 align-items-center d-flex flex-row no-wrap">
                 <div class="d-flex justify-content-center align-items-center mr-2">
