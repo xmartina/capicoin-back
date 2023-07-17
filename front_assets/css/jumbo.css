@@ -3,6 +3,7 @@
 }
 .jumbo hr.bg-set{
     border: 2px solid #fccb03;
+    background-color: #fccb03;
 }
 @media (max-width: 769px) {
 
