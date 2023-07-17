@@ -1,3 +1,7 @@
+.jumbo-bg{
+    background-image: url('/front_assets/images/jumbo-bg.jpg');
+    background-size: cover;
+}
 .jumbo-cont{
     border-left: 4px solid #fccb03;
 }
