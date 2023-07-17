@@ -3,11 +3,13 @@
     <div class="jumbo-bg">
         <div class="jumbo-cont pl-4 container py-4">
             <div class="cont-1 pb-3">
-                <div class="d-flex align-items-center">
-                    <hr class="bg-warning border-warning text-warning w-25">
-                </div>
-                <div class=" text-light">
-                    Unbeatable Investment Plans
+                <div class="row flex-row">
+                    <div class="col-sm-1 d-flex align-items-center">
+                        <hr class="bg-warning  text-warning w-25">
+                    </div>
+                    <div class="col-sm-7 text-light">
+                        Unbeatable Investment Plans
+                    </div>
                 </div>
             </div>
             <div class="cont-2">Welcome to</div>
