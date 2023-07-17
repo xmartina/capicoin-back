@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div class="cont-5">
-                <button class="btn bg-warning text-dark" onclick="location.href='{if $userinfo.logged != 1}?a=login{else}?a=account{/if}'">Get Started</button>
+                <button class="btn bg-warning text-dark" onclick="location.href='{if $userinfo.logged != 1}?a=login{else}?a=account{/if}'">{if $userinfo.logged != 1}Get Started{else}My Account{/if}</button>
             </div>
         </div>
     </div>
