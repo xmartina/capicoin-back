@@ -1,4 +1,4 @@
-
+{include file="front_header.tpl"}
       <div class="header-content py-6 is-dark mt-lg-n1 mt-n3">
         <div class="container">
           <div class="row flex-row-reverse justify-content-center text-center g-gs">
