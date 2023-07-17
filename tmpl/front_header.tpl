@@ -18,7 +18,7 @@
                 <!-- Fav Icon  -->
                 <link rel="shortcut icon" href="./images/favicon.png">
                 <!-- Page Title  -->
-                <title>{$PageName} | {$SiteName} - {$PageTage}</title>
+                <title>{$pageName} | {$SiteName} - {$PageTage}</title>
                 <!-- StyleSheets  -->
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css" />
                 <link rel="stylesheet" href="/front_assets/css/dashlite.css?ver=3.2.0">
