@@ -1,3 +1,6 @@
 .jumbo-cont{
-    border-left: 2px solid #fccb03;
+    border-left: 4px solid #fccb03;
+}
+@media (max-width: 769px) {
+
 }
