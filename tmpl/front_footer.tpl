@@ -41,7 +41,7 @@
 <!-- JavaScript -->
 <script src="/front_assets/js/bundle.js?ver=3.2.0"></script>
 <script src="/front_assets/js/scripts.js?ver=3.2.0"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/js/bootstrap.min.js"></script>
 </body>
 
 </html>
