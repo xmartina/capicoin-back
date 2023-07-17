@@ -12,8 +12,8 @@
   <!-- Page Title  -->
   <title>Home | DashLite Admin Template</title>
   <!-- StyleSheets  -->
-  <link rel="stylesheet" href="./assets/css/dashlite.css?ver=3.2.0">
-  <link id="skin-default" rel="stylesheet" href="./assets/css/theme.css?ver=3.2.0">
+  <link rel="stylesheet" href="/new/assets/css/dashlite.css?ver=3.2.0">
+  <link id="skin-default" rel="stylesheet" href="/new/assets/css/theme.css?ver=3.2.0">
 </head>
 
 <body class="nk-body bg-white npc-landing ">
@@ -417,8 +417,8 @@
 </div>
 <!-- app-root @e -->
 <!-- JavaScript -->
-<script src="./assets/js/bundle.js?ver=3.2.0"></script>
-<script src="./assets/js/scripts.js?ver=3.2.0"></script>
+<script src="/new/assets/js/bundle.js?ver=3.2.0"></script>
+<script src="/new/assets/js/scripts.js?ver=3.2.0"></script>
 </body>
 
 </html>
