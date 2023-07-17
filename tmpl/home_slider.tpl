@@ -1,34 +1,16 @@
 {$SiteName = "Capital Coin Investment"}
-
-
-<div class="container">
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner">
-        <div class="item active">
-            <img src="https://cryptogiant.biz/home-page/images/slider/bg1.jpg" alt="Los Angeles" style="width:100%;">
+<div class="jumbo">
+    <div class="jumbo-bg">
+        <div class="jumbo-cont">
+            <div class="cont-1">
+                Unbeatable Investment Plans
+            </div>
+            <div class="cont-2">Welcome to</div>
+            <div class="cont-3">{$SIteName}</div>
+            <div class="cont-4">Our knowledgeable professionals and industry leading tools are united to do one thing: make you a smarter, more profitable investor.</div>
+            <div class="cont-5">
+                <button class="btn bg-warning text-dark">Get Started</button>
+            </div>
         </div>
-
-        <div class="item">
-            <img src="https://cryptogiant.biz/home-page/images/slider/bg2.jpg" alt="Chicago" style="width:100%;">
-        </div>
-
     </div>
-
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
 </div>
