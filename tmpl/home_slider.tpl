@@ -4,7 +4,7 @@
         <div class="jumbo-cont pl-4 container py-4">
             <div class="cont-1 pb-3">
                 <div class="row">
-                    <div class="col-sm-1 px-1 text-warning w-25 d-flex align-items-center ">.</div>
+                    <div class="col-sm-1 px-5 py-3 text-warning w-25 d-flex align-items-center ">...</div>
                     <div class="col-sm-7 text-light">
                         Unbeatable Investment Plans
                     </div>
