@@ -23,6 +23,7 @@
                 <link rel="stylesheet" href="/front_assets/css/dashlite.css?ver=3.2.0">
                 <link id="skin-default" rel="stylesheet" href="/front_assets/css/theme.css?ver=3.2.0">
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css" />
+                <link id="skin-default" rel="stylesheet" href="/front_assets/css/jumbo.css">
                 <style>
                     .carousel-inner > .item > img,
                     .carousel-inner > .item > a > img {
