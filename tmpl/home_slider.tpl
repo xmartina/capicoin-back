@@ -1,3 +1,4 @@
+{$SiteName = "Capital Coin Investment"}
 
 
 
@@ -6,22 +7,18 @@
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="la.jpg" alt="Los Angeles" style="width:100%;">
+            <img src="https://cryptogiant.biz/home-page/images/slider/bg1.jpg" alt="Los Angeles" style="width:100%;">
         </div>
 
         <div class="item">
-            <img src="chicago.jpg" alt="Chicago" style="width:100%;">
+            <img src="https://cryptogiant.biz/home-page/images/slider/bg2.jpg" alt="Chicago" style="width:100%;">
         </div>
 
-        <div class="item">
-            <img src="ny.jpg" alt="New york" style="width:100%;">
-        </div>
     </div>
 
     <!-- Left and right controls -->
