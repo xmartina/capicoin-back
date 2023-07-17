@@ -1,6 +1,9 @@
 .jumbo-cont{
     border-left: 4px solid #fccb03;
 }
+.no-wrap{
+    flex-wrap: nowrap;
+}
 .jumbo hr.bg-set{
     border: 2px solid #fccb03;
     background-color: #fccb03;
