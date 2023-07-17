@@ -1,7 +1,7 @@
 {$SiteName = "Capital Coin Investment"}
 <div class="jumbo">
     <div class="jumbo-bg">
-        <div class="jumbo-cont pl-4 ">
+        <div class="jumbo-cont pl-4 container">
             <div class="cont-1">
                 Unbeatable Investment Plans
             </div>
