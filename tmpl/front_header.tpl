@@ -65,10 +65,10 @@
                                         <ul class="menu-list ms-lg-auto">
                                             <li class="menu-item has-sub">
                                             </li>
-                                            <li class="menu-item"><a href="#home" class="menu-link nav-link">Home</a></li>
-                                            <li class="menu-item"><a href="#feature" class="menu-link nav-link">Features</a></li>
-                                            <li class="menu-item"><a href="#pricing" class="menu-link nav-link">Pricing</a></li>
-                                            <li class="menu-item"><a href="#story" class="menu-link nav-link">Story</a></li>
+                                            <li class="menu-item"><a href="/" class="menu-link nav-link">Home</a></li>
+                                            <li class="menu-item"><a href="?a=about" class="menu-link nav-link">About</a></li>
+                                            <li class="menu-item"><a href="?a=faq" class="menu-link nav-link">FAQ</a></li>
+                                            <li class="menu-item"><a href="?a=support" class="menu-link nav-link">Contact</a></li>
                                         </ul>
                                         <ul class="menu-btns">
                                             <li>
