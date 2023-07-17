@@ -5,9 +5,9 @@
         <div class="row g-3 align-items-center">
             <div class="col-md-3">
                 <div class="footer-logo">
-                    <a href="html/index.html" class="logo-link">
-                        <img class="logo-light logo-img" src="./images/logo.png" srcset="./images/logo2x.png 2x" alt="logo">
-                        <img class="logo-dark logo-img" src="./images/logo-dark.png" srcset="./images/logo-dark2x.png 2x" alt="logo-dark">
+                    <a href="/" class="logo-link">
+                        <img class="logo-light logo-img" src="{$siteLogo}" srcset="{$siteLogo} 2x" alt="logo">
+                        <img class="logo-dark logo-img" src="{$siteLogo}" srcset="{$siteLogo} 2x" alt="logo-dark">
                     </a>
                 </div><!-- .footer-logo -->
             </div><!-- .col -->
@@ -22,7 +22,7 @@
         </div>
         <div class="row g-3 align-items-center pt-4">
             <div class="col-md-8">
-                <div class="text-base">&copy; 2023 Dashlite. Template Made by <a class="text-base fw-bold" href="#">Softnio</a></div>
+                <div class="text-base">&copy; 2023 {$SiteName}. </div>
             </div><!-- .col -->
             <div class="col-md-4 d-flex justify-content-md-end">
                 <ul class="social">
@@ -41,6 +41,7 @@
 <!-- JavaScript -->
 <script src="/front_assets/js/bundle.js?ver=3.2.0"></script>
 <script src="/front_assets/js/scripts.js?ver=3.2.0"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css" />
 </body>
 
 </html>
