@@ -18,9 +18,9 @@
     <title>{$pageName} | {$SiteName} | {$PageTage}</title>
     <!-- StyleSheets  -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/new/assets/css/dashlite.css?ver=3.2.0">
-    <link rel="stylesheet" href="/new/assets/css/dashlite.min.css">
-    <link id="skin-default" rel="stylesheet" href="/assets/css/theme.css?ver=3.2.0">
+    <link rel="stylesheet" href="/front_assets/css/dashlite.css?ver=3.2.0">
+    <link rel="stylesheet" href="/front_assets/css/dashlite.min.css">
+    <link id="skin-default" rel="stylesheet" href="/front_assets/css/theme.css?ver=3.2.0">
     <style>
         .carousel-inner > .item > img,
         .carousel-inner > .item > a > img {
