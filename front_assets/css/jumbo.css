@@ -1,7 +1,7 @@
 .jumbo-cont{
     border-left: 4px solid #fccb03;
 }
-.jumbo hr.bg-warning{
+.jumbo hr.bg-set{
     border: 2px solid #fccb03;
 }
 @media (max-width: 769px) {
