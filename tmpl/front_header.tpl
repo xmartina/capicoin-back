@@ -68,7 +68,7 @@
                                             <li class="menu-item" onclick="location.href='?a=home'"><a href="#home" class="menu-link nav-link">Home</a></li>
                                             <li class="menu-item" onclick="location.href='?a=about'"><a href="#feature" class="menu-link nav-link">About</a></li>
                                             <li class="menu-item" onclick="location.href='?a=faq'"><a href="#pricing" class="menu-link nav-link">FAQ</a></li>
-                                            <li class="menu-item" onclick="location.href='?a=contact'"><a href="#story" class="menu-link nav-link">Contact</a></li>
+                                            <li class="menu-item" onclick="location.href='?a=support'"><a href="#story" class="menu-link nav-link">Contact</a></li>
                                         </ul>
                                         <ul class="menu-btns">
                                             <li>
