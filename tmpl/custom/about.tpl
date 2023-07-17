@@ -37,7 +37,7 @@
               </div>
             </div>
             <div class="col-lg-12 my-4">
-              <div class="header-text">
+              <div class="header-text text-white">
                 Your deposit is working on an ongoing basis, and makes profit every hour with the ability to withdraw profit. Your deposit is for life and irretrievable. This proposal would be interesting not only for beginners of cryptocurrency operation, but also for experienced online investors. {$SiteName} Business uses only modern mining equipment and trades at the most stable markets, which minimizes the risk of financial loss to customers and guarantees them a stable income accrued every 60 minutes. Join our company today and start making high profits!
               </div>
             </div>
