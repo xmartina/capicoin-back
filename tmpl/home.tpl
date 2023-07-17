@@ -152,7 +152,7 @@
                             <li>Maximum deposit: <strong>$3,999</strong></li>
                         </ul>
                         <div class="pricing-action">
-                            <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                            <a href="{if $userinfo.logged != 1}?a=login{else}?a=deposit{/if}" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -168,7 +168,7 @@
                             <li>Maximum deposit: <strong>$9,999</strong></li>
                         </ul>
                         <div class="pricing-action">
-                            <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                            <a href="{if $userinfo.logged != 1}?a=login{else}?a=deposit{/if}" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -184,7 +184,7 @@
                             <li>Maximum deposit: <strong>$15,999</strong></li>
                         </ul>
                         <div class="pricing-action">
-                            <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                            <a href="{if $userinfo.logged != 1}?a=login{else}?a=deposit{/if}" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -200,7 +200,7 @@
                             <li>Maximum deposit: <strong>$20,000</strong></li>
                         </ul>
                         <div class="pricing-action">
-                            <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                            <a href="{if $userinfo.logged != 1}?a=login{else}?a=deposit{/if}" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                             <li>Maximum deposit: <strong>$49,000</strong></li>
                         </ul>
                         <div class="pricing-action">
-                            <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                            <a href="{if $userinfo.logged != 1}?a=login{else}?a=deposit{/if}" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -232,7 +232,7 @@
                             <li>Maximum deposit: <strong>$79,999</strong></li>
                         </ul>
                         <div class="pricing-action">
-                            <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                            <a href="{if $userinfo.logged != 1}?a=login{else}?a=deposit{/if}" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -248,7 +248,7 @@
                             <li>Maximum deposit: <strong>$100,000</strong></li>
                         </ul>
                         <div class="pricing-action">
-                            <a href="?a=deposit" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
+                            <a href="{if $userinfo.logged != 1}?a=login{else}?a=deposit{/if}" class="btn btn-outline-light btn-lg btn-block"><span>Buy Plan</span></a>
                         </div>
                     </div>
                 </div>
