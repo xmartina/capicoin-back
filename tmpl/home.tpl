@@ -291,3 +291,4 @@
         </div><!-- .row -->
       </div><!-- .container -->
     </section><!-- .section -->
+{include file="front_footer.tpl"}
