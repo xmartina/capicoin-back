@@ -5,8 +5,10 @@
     flex-wrap: nowrap;
 }
 .jumbo hr.bg-set{
-
-    width:45px;
+    border: 2px solid #fccb03!important;
+    background-color: #fccb03!important;
+    color:#fccb03!important;
+    width:23px!important;
 }
 @media (max-width: 769px) {
 
