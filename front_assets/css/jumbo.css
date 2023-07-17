@@ -5,9 +5,9 @@
     flex-wrap: nowrap;
 }
 .jumbo hr.bg-set{
-    border: 2px solid #fccb03!important;
-    background-color: #fccb03!important;
-    color:#fccb03!important;
+    border: 2px solid #ffc107!important;
+    background-color: #ffc107!important;
+    color:#ffc107!important;
     width:23px!important;
 }
 @media (max-width: 769px) {

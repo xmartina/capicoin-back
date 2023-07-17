@@ -2,11 +2,11 @@
 <div class="jumbo">
     <div class="jumbo-bg">
         <div class="jumbo-cont pl-4 container py-4">
-            <div class="cont-1 pb-3 d-flex flex-row no-wrap">
+            <div class="cont-1 pb-3 align-items-center d-flex flex-row no-wrap">
                 <div class="d-flex justify-content-center align-items-center mr-2">
                     <hr class="bg-set">
                 </div>
-                Unbeatable Investment Plans
+                <span class="text-light">Unbeatable Investment Plans</span>
             </div>
             <div class="cont-2">Welcome to</div>
             <div class="cont-3">{$SIteName}</div>
